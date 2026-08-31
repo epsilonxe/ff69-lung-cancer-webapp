@@ -1,0 +1,17 @@
+# dependencies / build output
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.next/
+/web/out/
+*.tsbuildinfo
+.vercel
+
+# env — templates (.env.example) are committed
+.env
+.env.local
+.env*.local
+
+# OS / editor
+.DS_Store

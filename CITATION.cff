@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: Lung Cancer Risk Screening Web App (FF69)
+message: >-
+  If you use this software, please cite the FF69 project and the
+  method paper below.
+type: software
+authors:
+  - given-names: Ratthaprom
+    family-names: Promkam
+    affiliation: Rajamangala University of Technology Thanyaburi (RMUTT)
+  - given-names: Pongsakorn
+    family-names: Sunthrayuth
+    affiliation: Rajamangala University of Technology Thanyaburi (RMUTT)
+  - name: "FF69 project team, RMUTT"
+license: MIT
+repository-code: https://github.com/epsilonxe/ff69-lung-cancer-webapp
+keywords:
+  - extreme learning machine
+  - variational inequality
+  - lung cancer screening
+  - FastAPI
+  - Next.js
+references:
+  - type: article
+    title: >-
+      Generalized two-step inertial parallel subgradient extragradient
+      method for common solutions of bilevel variational inequality problems
+    authors:
+      - given-names: Ratthaprom
+        family-names: Promkam
+      - given-names: Pongsakorn
+        family-names: Sunthrayuth
+      - given-names: Pronpat
+        family-names: Peeyada
+      - given-names: Prasit
+        family-names: Cholamjiak
+    journal: >-
+      Communications in Nonlinear Science and Numerical Simulation
+      (submitted, CNSNS-D-25-04749R1)
+    year: 2026
+  - type: report
+    title: >-
+      การพัฒนากระบวนการจำแนกผู้ป่วยมะเร็งปอดด้วยแบบจำลองการเรียนรู้ของเครื่อง
+      (Development of a lung cancer patient classification process using
+      machine learning models)
+    authors:
+      - name: "FF69 project team, RMUTT"
+    institution:
+      name: Rajamangala University of Technology Thanyaburi
+    year: 2026
+    notes: "Fundamental Fund project 4822616"
