@@ -8,10 +8,6 @@ authors:
   - given-names: Ratthaprom
     family-names: Promkam
     affiliation: Rajamangala University of Technology Thanyaburi (RMUTT)
-  - given-names: Pongsakorn
-    family-names: Sunthrayuth
-    affiliation: Rajamangala University of Technology Thanyaburi (RMUTT)
-  - name: "FF69 project team, RMUTT"
 license: MIT
 repository-code: https://github.com/epsilonxe/ff69-lung-cancer-webapp
 keywords:
